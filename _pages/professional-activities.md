@@ -43,6 +43,7 @@ author_profile: true
 * IEICE Transactions on Information and Systems (2017, 2018)
 * ITE Transactions on Media Technology and Applications (MTA) (2015)
 * Molecular Diversity Preservation International (MDPI) (2017)
+* Frontiers in Virtual Reality (2021)
 * Trans. of the Virtual Reality Society of Japan (VRSJ) (in English and Japanese) (2016, 2017)
 
 ### Conference
