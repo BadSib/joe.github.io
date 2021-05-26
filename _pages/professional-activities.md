@@ -44,7 +44,7 @@ author_profile: true
 * ITE Transactions on Media Technology and Applications (MTA) (2015)
 * Molecular Diversity Preservation International (MDPI) (2017)
 * Frontiers in Virtual Reality (2021)
-* Trans. of the Virtual Reality Society of Japan (VRSJ) (in English and Japanese) (2016, 2017)
+* Trans. of the Virtual Reality Society of Japan (VRSJ) (in English and Japanese) (2016, 2017, 2021)
 
 ### Conference
 * IEEE Virtual Reality (VR) (2018, 2019, 2020, 2021)
