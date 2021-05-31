@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Grants
+* Fonds zur Förderung der wissenschaftlichen Forschung (FWF), [**3DDR - Real-time Three-Dimensional Diminished Reality**](https://graz.pure.elsevier.com/en/projects/fwf-3ddr-real-time-three-dimensional-diminished-reality), _Co-Investigator_ (Jan. 2021 - Dec. 2024)
 * Grant-in-Aid for Young Scientists (B), [**Perceptually High Contrast Optical See-Through HMD based on Adaptation (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/), _Principal Investigator_ (Apr. 2017 - Sept. 2018)
 * Grant-in-Aid for JSPS Fellows (PD), [**Research on Mixed and Augmented Reality Using Light Field Cameras (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16J05114/), _Research Fellow_ (Apr. 2016 - Sept. 2018)
 * Grant-in-Aid for JSPS Fellows (DC-1), [**Two Approaches for Improving the Expressiveness of Mixed Reality Space (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-13J09193/), _Research Fellow_ (Apr. 2013 - Mar. 2016)
