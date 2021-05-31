@@ -25,14 +25,14 @@ author_profile: true
 * Technical Committee on Plenoptic Time-Space Technology, _Secretary_ (Apr. 2016 - Mar. 2019)
 
 ## Committees
-* IEEE Virtual Reality (VR), _IPC Member_ (2021, 2019), _Web Co-Chair_ (2019)
-* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ (2020), _Doctoral Consortium Co-Chair_ (2020), _Demo Co-Chair_ (2018)
-* Int. ACM Conf. on 3D Web Technology, _IPC Member_ (2020)
-* Highly Diverse Cameras and Displays for Mixed and Augmented Reality (HDCD4MAR), _General Co-Chair_ (2017)
-* Int. Conf. on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments (ICAT-EGVE), _IPC Member_ (2017)
-* Annual Conf. of the Virtual Reality Society of Japan (in Japanese), _Publication Co-Chair_
-* PoTS Symposium (in Japanese), _Local Chair_
-* Int. Workshop on Diminished Reality as Challenging Issue in Mixed and Augmented Reality, _Workshop Organizing Chair_
+* IEEE Virtual Reality (VR), _IPC Member_ ([2019](https://ieeevr.org/2019/committees/program.html), [2020](https://ieeevr.org/2020/committees/program.html), [2021](https://ieeevr.org/2021/committees/program-committee/)), _Web Co-Chair_ ([2019](https://ieeevr.org/2019/committees/conference.html))
+* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ ([2020](https://ismar20.org/scitech-committee/), [2021](https://ismar21.org/science-and-technology-program-committee/)), _Doctoral Consortium Co-Chair_ ([2020](https://ismar20.org/committees/)), _Demo Co-Chair_ ([2018](https://ismar2018.vgtc.org/committee_conference/index.html))
+* Int. ACM Conf. on 3D Web Technology, _IPC Member_ ([2020](https://web3d.siggraph.org/))
+* Int. Conf. on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments (ICAT-EGVE), _IPC Member_ ([2017](http://icat.vrsj.org/2017/))
+* Highly Diverse Cameras and Displays for Mixed and Augmented Reality (HDCD4MAR), _General Co-Chair_ ([2017](http://www.hvrl.ics.keio.ac.jp/hdcd4mar/))
+* Int. Workshop on Diminished Reality as Challenging Issue in Mixed and Augmented Reality, _Workshop Organizing Chair_ ([2016](http://www.rm.is.ritsumei.ac.jp/IWDR2016/))
+* Annual Conf. of the Virtual Reality Society of Japan (in Japanese), _Publication Co-Chair_ ([2017](http://conference.vrsj.org/ac2017/committee/committee.html))
+* PoTS Symposium (in Japanese), _Local Chair_ ([2017](http://www.hvrl.ics.keio.ac.jp/pots/symp/2016/))
 
 ## Peer-review
 ### Journal
