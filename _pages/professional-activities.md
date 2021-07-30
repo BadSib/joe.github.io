@@ -49,7 +49,7 @@ author_profile: true
 
 ### Conference
 * IEEE Virtual Reality (VR) (2018, 2019, 2020, 2021)
-* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR) (2017, 2018, 2019, 2020)
+* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR) (2017, 2018, 2019, 2020, 2021)
 * ACM CHI Conf. on Human Factors in Computing Systems (CHI) (2020)
 * ACM Symp. on Virtual Reality Software and Technology (VRST) (2019)
 * IEEE Information Visualization (InfoVis) (2020)
