@@ -6,7 +6,7 @@ externalurl: 'https://diglib.eg.org:443/handle/10.2312/egt20211036'
 youtubeurl: 'https://youtu.be/RIr28JDuveA'
 presentationurl: '../files/A4_DiminishedReality.pdf'
 githuburl: 'https://github.com/Mugichoko445/DRMarkerHiding'
-citation: 'Markus, Tatzgern, Shohei Mori, Christoph Ebner, David Mandl, Kasper Ladefoged, Peter Mohr, and Denis Kalkofen, &quot;Rendering and Visualization in Mixed Reality&quot; <i>Eurographics 2021 - Tutorials</i> (2021.05)'
+citation: 'Markus Tatzgern, Shohei Mori, Christoph Ebner, David Mandl, Kasper Ladefoged, Peter Mohr, and Denis Kalkofen, &quot;Rendering and Visualization in Mixed Reality&quot; <i>Eurographics 2021 - Tutorials</i> (2021.05)'
 ---
 
 <!--
