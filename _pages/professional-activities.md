@@ -13,16 +13,16 @@ author_profile: true
 * Grant-in-Aid for Scientific Research (S), [**Systematizing and Consolidating a Technological Basis of Mixed and Diminished Reality Space**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24220004/), _Research Collaborator_ (May 2012 - Mar. 2017)
 
 # Teaching
-* **Realtime Visualisation** at FHSalzburg in collaboration with Markus Tatzgern (2020)
+* **Realtime Visualisation** at FHSalzburg in collaboration with Markus Tatzgern (2020, 2021)
 * **Augmented Reality** at TUGraz in collaboration with Denis Kalkofen and Peter Roth (2018, 2019)
 * **Experiments in Media Technology - Virtual/Mixed Reality** at Ritsumeikan University (Teaching Assistant) (2011, 2012)
 
 # Service
 ## Working Member
-* ISO/IEC JTC 1/SC 24/WG 9 (Augmented reality continu-um concepts and reference model), _Support Member_ (Sept. 2016 - Present)
-* TrakMark (Benchmark test schemes for AR/MR geometricregistration and tracking methods), _Support Member_ (Apr. 2015 - Present)
-* The Virtual Reality Society of Japan, _Academic Journal Committee_ (Apr. 2020 - Present), _Newsletter Committee_ (Jul. 2016 - Mar. 2020)
-* Technical Committee on Plenoptic Time-Space Technology, _Secretary_ (Apr. 2016 - Mar. 2019)
+* ISO/IEC JTC 1/SC 24/WG 9 (Augmented reality continu-um concepts and reference model), _Support Member_ (2016, 2017) <!--- (Sept. 2016 - Present) -->
+* TrakMark (Benchmark test schemes for AR/MR geometric registration and tracking methods), _Support Member_ (2015, 2016) <!--- (Apr. 2015 - Present) -->
+* The Virtual Reality Society of Japan, _Academic Journal Committee_ (2020 - 2024) <!--- (Apr. 2020 - Present) -->, _Newsletter Committee_ (2016 - 2020) <!--- (Jul. 2016 - Mar. 2020) -->
+* Technical Committee on Plenoptic Time-Space Technology, _Secretary_ (2016 - 2019) <!-- (Apr. 2016 - Mar. 2019) -->
 
 ## Committees
 * IEEE Virtual Reality (VR), _IPC Member_ ([2019](https://ieeevr.org/2019/committees/program.html), [2020](https://ieeevr.org/2020/committees/program.html), [2021](https://ieeevr.org/2021/committees/program-committee/)), _Web Co-Chair_ ([2019](https://ieeevr.org/2019/committees/conference.html))
