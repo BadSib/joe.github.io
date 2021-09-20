@@ -37,7 +37,7 @@ author_profile: true
 ## Peer-review
 ### Journal
 * IEEE Trans. on Visualization and Computer Graphics (TVCG) (2018, 2020)
-* IEEE Trans. on Multimedia (2016)
+* IEEE Trans. on Multimedia (2016, 2021)
 * IEEE Computer Graphics and Applications (CG&A) (2020)
 * IEEE Trans. on Instrumentation and Measurement (TIM) (2020)
 * IPSJ Trans. on Computer Vision and Applications (CVA) (2017, 2019)
