@@ -26,7 +26,7 @@ author_profile: true
 
 ## Committees
 * IEEE Virtual Reality (VR), _IPC Member_ ([2019](https://ieeevr.org/2019/committees/program.html), [2020](https://ieeevr.org/2020/committees/program.html), [2021](https://ieeevr.org/2021/committees/program-committee/)), _Web Co-Chair_ ([2019](https://ieeevr.org/2019/committees/conference.html))
-* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ ([2020](https://ismar20.org/scitech-committee/), [2021](https://ismar21.org/science-and-technology-program-committee/)), _Doctoral Consortium Co-Chair_ ([2020](https://ismar20.org/committees/)), _Demo Co-Chair_ ([2018](https://ismar2018.vgtc.org/committee_conference/index.html))
+* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ ([2020](https://ismar20.org/scitech-committee/), [2021](https://ismar21.org/science-and-technology-program-committee/)), _Doctoral Consortium Co-Chair_ ([2020](https://ismar20.org/committees/)), _Demo Co-Chair_ ([2018](https://ismar2018.vgtc.org/committee_conference/index.html)), _Session Chair_ ([2020](https://ismar20.org/program/), [2021](https://ismar21.org/program/accepted-papers/#session7))
 * Int. ACM Conf. on 3D Web Technology, _IPC Member_ ([2020](https://web3d.siggraph.org/))
 * Int. Conf. on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments (ICAT-EGVE), _IPC Member_ ([2017](http://icat.vrsj.org/2017/))
 * Highly Diverse Cameras and Displays for Mixed and Augmented Reality (HDCD4MAR), _General Co-Chair_ ([2017](http://www.hvrl.ics.keio.ac.jp/hdcd4mar/))
