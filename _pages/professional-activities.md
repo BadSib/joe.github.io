@@ -14,7 +14,7 @@ author_profile: true
 
 # Teaching
 * **Realtime Visualisation** at FHSalzburg in collaboration with Markus Tatzgern (2020, 2021)
-* **Augmented Reality** at TUGraz in collaboration with Denis Kalkofen and Peter Roth (2018, 2019)
+* **Augmented Reality** at TUGraz in collaboration with Denis Kalkofen and Peter Roth (2018, 2019) / with Denis Kalkofen (2021)
 * **Experiments in Media Technology - Virtual/Mixed Reality** at Ritsumeikan University (Teaching Assistant) (2011, 2012)
 
 # Service
