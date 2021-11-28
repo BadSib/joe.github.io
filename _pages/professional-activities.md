@@ -48,7 +48,7 @@ author_profile: true
 * Trans. of the Virtual Reality Society of Japan (VRSJ) (in English and Japanese) (2016, 2017, 2021)
 
 ### Conference
-* IEEE Virtual Reality (VR) (2018, 2019, 2020, 2021)
+* IEEE Virtual Reality (VR) (2018, 2019, 2020, 2021, 2022)
 * IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR) (2017, 2018, 2019, 2020, 2021)
 * ACM CHI Conf. on Human Factors in Computing Systems (CHI) (2020)
 * ACM Symp. on Virtual Reality Software and Technology (VRST) (2019)
