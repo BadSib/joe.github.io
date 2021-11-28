@@ -40,11 +40,12 @@ author_profile: true
 * IEEE Trans. on Multimedia (2016, 2021)
 * IEEE Computer Graphics and Applications (CG&A) (2020)
 * IEEE Trans. on Instrumentation and Measurement (TIM) (2020)
+* Frontiers in Virtual Reality (2021)
 * IPSJ Trans. on Computer Vision and Applications (CVA) (2017, 2019)
 * IEICE Transactions on Information and Systems (2017, 2018)
 * ITE Transactions on Media Technology and Applications (MTA) (2015)
 * Molecular Diversity Preservation International (MDPI) (2017)
-* Frontiers in Virtual Reality (2021)
+* Concurrency and Computation: Practice and Experience (CCPE) (2021)
 * Trans. of the Virtual Reality Society of Japan (VRSJ) (in English and Japanese) (2016, 2017, 2021)
 
 ### Conference
