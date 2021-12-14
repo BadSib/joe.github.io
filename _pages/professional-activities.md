@@ -19,6 +19,7 @@ author_profile: true
 
 # Service
 ## Working Member
+* Frontiers in Computer Science, Computer Graphics and Visualization, _Review Editor_ (2021)
 * ISO/IEC JTC 1/SC 24/WG 9 (Augmented reality continu-um concepts and reference model), _Support Member_ (2016, 2017) <!--- (Sept. 2016 - Present) -->
 * TrakMark (Benchmark test schemes for AR/MR geometric registration and tracking methods), _Support Member_ (2015, 2016) <!--- (Apr. 2015 - Present) -->
 * The Virtual Reality Society of Japan, _Academic Journal Committee_ (2020 - 2024) <!--- (Apr. 2020 - Present) -->, _Newsletter Committee_ (2016 - 2020) <!--- (Jul. 2016 - Mar. 2020) -->

@@ -2,6 +2,7 @@
 title: "[C] Neural Cameras: Learning Camera Characteristics for Coherent Mixed Reality Rendering"
 collection: publications
 permalink: /publication/2021-10-ISMAR-Mandl
+externalurl: 'https://doi.org/10.1109/ISMAR52148.2021.00068'
 paperurl: 'https://www.hci.otago.ac.nz/papers/MandlIEEEISMAR2021.pdf'
 youtubeurl: 'https://www.youtube.com/watch?v=cGc8vBVbIvI'
 presentationurl: 'https://youtu.be/u0ZPw12m2GQ?t=2107'
