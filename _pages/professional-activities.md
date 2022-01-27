@@ -7,6 +7,7 @@ author_profile: true
 
 # Grants
 * Fonds zur Förderung der wissenschaftlichen Forschung (FWF), [**3DDR - Real-time Three-Dimensional Diminished Reality**](https://graz.pure.elsevier.com/en/projects/fwf-3ddr-real-time-three-dimensional-diminished-reality), _Co-Investigator_ (Jan. 2021 - Dec. 2024)
+* Ritsumeikan Global Innovation Research Organization (R-GIRO), [**An Interdisciplinary Research Center on Supporting Cognitive and Communication for Elderly**](http://www.ritsumei.ac.jp/rgiro/activity/program/fourth/projects/hayashi.html/), _Project Member_ (Apr. 2021 - Mar. 2026)
 * Grant-in-Aid for Young Scientists (B), [**Perceptually High Contrast Optical See-Through HMD based on Adaptation (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K12729/), _Principal Investigator_ (Apr. 2017 - Sept. 2018)
 * Grant-in-Aid for JSPS Fellows (PD), [**Research on Mixed and Augmented Reality Using Light Field Cameras (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16J05114/), _Research Fellow_ (Apr. 2016 - Sept. 2018)
 * Grant-in-Aid for JSPS Fellows (DC-1), [**Two Approaches for Improving the Expressiveness of Mixed Reality Space (in Japanese)**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-13J09193/), _Research Fellow_ (Apr. 2013 - Mar. 2016)
@@ -35,7 +36,7 @@ author_profile: true
 * Annual Conf. of the Virtual Reality Society of Japan (in Japanese), _Publication Co-Chair_ ([2017](http://conference.vrsj.org/ac2017/committee/committee.html))
 * PoTS Symposium (in Japanese), _Local Chair_ ([2017](http://www.hvrl.ics.keio.ac.jp/pots/symp/2016/))
 
-## Peer-review
+## Peer-review Activities
 ### Journal
 * IEEE Trans. on Visualization and Computer Graphics (TVCG) (2018, 2020, 2021)
 * IEEE Trans. on Multimedia (2016, 2021)
