@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Institute of Computer Graphics and Vision (ICG) at Graz University of Technology, Austria, and a Guest Lecturer (Global) at Keio University, Japan. My focus lies in augmented and diminished reality and the related computer vision and display technologies. He received my B.S. (2011), M.S. (2013), and PhD (2016) in engineering at Ritsumeikan University, Japan. Before joining the ICG, I worked as a Research Fellowship for Young Scientists (DC-1) from the Japan Society for the Promotion of Science (JSPS) during my Ph.D degree, and I started my career as a JSPS Research Fellowship for Young Scientists (PD) at Keio University, Japan.
+I am a postdoctoral researcher at the Institute of Computer Graphics and Vision (ICG) in Graz University of Technology, Austria, and a Guest Lecturer (Global) at Keio University, Japan. My focus lies in augmented and diminished reality and the related computer vision and display technologies. I received my B.S. (2011), M.S. (2013), and PhD (2016) in engineering at Ritsumeikan University, Japan. Before joining the ICG, I worked as a Research Fellowship for Young Scientists (DC-1) from the Japan Society for the Promotion of Science (JSPS) during my PhD degree, and I started my career as a JSPS Research Fellowship for Young Scientists (PD) at Keio University, Japan.
 
 My work has been published or is forthcoming in IEEE Trans. on Visualization and Computer Graphics (TVCG), IEEE Virtual Reality (VR), IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), ACM CHI Conf. on Human Factors in Computing Systems (CHI), ACM Symp. on User Interface Software and Technology (UIST), and ACM Symp. on Virtual Reality Software and Technology (VRST).
 
