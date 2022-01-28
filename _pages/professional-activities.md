@@ -27,9 +27,9 @@ author_profile: true
 
 ## Committees
 * IEEE Virtual Reality (VR), _IPC Member_ ([2019](https://ieeevr.org/2019/committees/program.html), [2020](https://ieeevr.org/2020/committees/program.html), [2021](https://ieeevr.org/2021/committees/program-committee/), [2022](https://ieeevr.org/2022/committees/program-committee/)), _Web Co-Chair_ ([2019](https://ieeevr.org/2019/committees/conference.html))
-* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ ([2020](https://ismar20.org/scitech-committee/), [2021](https://ismar21.org/science-and-technology-program-committee/)), _Doctoral Consortium Co-Chair_ ([2020](https://ismar20.org/committees/)), _Demo Co-Chair_ ([2018](https://ismar2018.vgtc.org/committee_conference/index.html)), _Session Chair_ ([2020](https://ismar20.org/program/), [2021](https://ismar21.org/program/accepted-papers/#session7))
+* IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), _IPC Member_ ([2020](https://ismar2020.ismar.net/scitech-committee/index.html), [2021](https://ismar21.org/science-and-technology-program-committee/)), _Doctoral Consortium Co-Chair_ ([2020](https://ismar2020.ismar.net/committees/index.html)), _Demo Co-Chair_ ([2018](https://ismar2018.vgtc.org/committee_conference/index.html)), _Session Chair_ ([2020](https://ismar20.org/program/), [2021](https://ismar21.org/program/accepted-papers/#session7))
 * Frontiers in Computer Science, Computer Graphics and Visualization, [_Review Editor_](https://www.frontiersin.org/journals/computer-science/sections/computer-graphics-and-visualization#editorial-board) (2021)
-* Int. ACM Conf. on 3D Web Technology, _IPC Member_ ([2020](https://web3d.siggraph.org/))
+* Int. ACM Conf. on 3D Web Technology, _IPC Member_ ([2020](https://web3d.siggraph.org/archive/web3d2020/conference/))
 * Int. Conf. on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments (ICAT-EGVE), _IPC Member_ ([2017](http://icat.vrsj.org/2017/))
 * Highly Diverse Cameras and Displays for Mixed and Augmented Reality (HDCD4MAR), _General Co-Chair_ ([2017](http://www.hvrl.ics.keio.ac.jp/hdcd4mar/))
 * Int. Workshop on Diminished Reality as Challenging Issue in Mixed and Augmented Reality, _Workshop Organizing Chair_ ([2016](http://www.rm.is.ritsumei.ac.jp/IWDR2016/))
