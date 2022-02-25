@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[J]** Journal, **[C]** Conference, **[P]** Poster, **[D]** Demo, **[B]** Book, **[I]** Invited Talk, and **[N]** None peer-reviewed. For the publication list including Japanese litarature, please refer to the above link, **日本語**.
+**[J]** Journal, **[C]** Conference, **[W]** Workshop, **[P]** Poster, **[D]** Demo, **[B]** Book, **[I]** Invited Talk, and **[N]** None peer-reviewed. For the publication list including Japanese litarature, please refer to the above link, **日本語**.
 {: .notice}
 
 {% if author.googlescholar %}
