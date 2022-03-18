@@ -13,6 +13,7 @@ I am a postdoctoral researcher at the Institute of Computer Graphics and Vision 
 My work has been published or is forthcoming in IEEE Trans. on Visualization and Computer Graphics (TVCG), IEEE Virtual Reality (VR), IEEE Int. Symp. on Mixed and Augmented Reality (ISMAR), ACM CHI Conf. on Human Factors in Computing Systems (CHI), ACM Symp. on User Interface Software and Technology (UIST), and ACM Symp. on Virtual Reality Software and Technology (VRST).
 
 # News
+* **March 16, 2022** - Our team received one of the Best Journal Paper Awards for _"Video See-Through Mixed Reality with Focus Cues"_ at [IEEE VR 2022](https://ieeevr.org/2022/awards/conference-awards/#journal-best)
 * **February 25, 2022** - I'm happy to announce that our teams are presenting three papers at IEEE VR 2022 (A journal, conference, and workshop paper)
   * C. Ebner, et al.: "Video See-Through Mixed Reality with Focus Cues" at [Journal](https://ieeevr.org/2022/program/papers/#1.1) ([TVCG](https://ieeexplore.ieee.org/document/9714124))
   * S. Mori, et al.: "Exploring Pseudo-Weight in AR Extended Displays" at [Conference](https://ieeevr.org/2022/program/papers/#2.7) / [Teaser video](https://youtu.be/XeF6Mro8D_o)
